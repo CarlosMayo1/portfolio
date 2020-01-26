@@ -1,0 +1,12 @@
+.Logo {
+  padding:8px;
+  height:100%;
+  box-sizing: border-box;
+}
+
+.Logo p {
+  color:#505763;
+  font-size:25px;
+  height: 100%;
+  font-weight: 300;
+}

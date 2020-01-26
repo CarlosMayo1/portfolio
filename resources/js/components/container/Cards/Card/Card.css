@@ -1,0 +1,13 @@
+.card-header {
+  height:210px;
+  width:100%;
+}
+
+.img-content {
+  height:210px;
+}
+
+.img-wrapper {
+  position:relative;
+  width:100%;
+}
